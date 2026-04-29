@@ -1,0 +1,2 @@
+document.querySelector(".box");let t=document.querySelector(".color");document.querySelector(".btn").addEventListener("click",()=>{let{r:o,g:e,b:r}={r:Math.round(254*Math.random()+1),g:Math.round(254*Math.random()+1),b:Math.round(254*Math.random()+1)};t.style.backgroundColor=`rgb(${o},${e},${r})`;let{top:a,left:n}={top:Math.round(799*Math.random()+1),left:Math.round(799*Math.random()+1)};t.style.top=`${a}px`,t.style.left=`${n}px`});
+//# sourceMappingURL=JS4-HW6.b1787c43.js.map
