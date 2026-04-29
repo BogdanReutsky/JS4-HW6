@@ -1,0 +1,22 @@
+.box{
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.color{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+}
